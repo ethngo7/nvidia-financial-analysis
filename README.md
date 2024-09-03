@@ -1,1 +1,1 @@
-This is a general financial analysis of Nvidia the past 5 years. I download financial data for Nvidia from Yahoo Finance (yfinance), and then check if there are any missing values. Then, I display key metrics that can prove the company's success or failure. I have a summary report at the end of the simple project.
+This is a general financial analysis of Nvidia the past 5 years. I have a summary report at the end of the simple project.
